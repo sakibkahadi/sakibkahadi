@@ -1,77 +1,51 @@
-# Hi, I'm Sakib Kahadi Khan 👋
-## Frontend Developer (Next.js)
+# Sakib Kahadi Khan
+Frontend Developer, growing into backend.
 
-Dhaka, Bangladesh | 01998597743 | sakibkahadi72844@gmail.com |
-Portfolio | [LinkedIn](https://linkedin.com/in/sakibkahadi) | [GitHub](https://github.com/sakibkahadi)
+Dhaka, Bangladesh | [LinkedIn](https://linkedin.com/in/sakibkahadi) | [Email](mailto:sakibkahadi72844@gmail.com) | [Portfolio](#) | [Resume](Sakib_Kahadi_Khan_Resume.pdf)
 
-### Professional Summary
-Frontend Developer with production experience building scalable SaaS applications, high-converting landing pages, and responsive, accessible interfaces using Next.js and React.js. Skilled in NextAuth, Zustand, Tailwind CSS, and shadcn/ui for building secure, component-driven UIs, with hands-on experience integrating REST APIs, real-time features, and third-party services such as Pusher and easy-email. Delivered production frontends for real-world platforms including VLOO and Yaabi.
+I build SaaS apps and landing pages with Next.js, React, Tailwind CSS, shadcn/ui, Zustand, Pusher, and NextAuth. I deliver production frontends for real-world products and am expanding into backend systems with NestJS, TypeScript, PostgreSQL, and TypeORM.
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakibkahadi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/sakibkahadi)
-[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:sakibkahadi72844@gmail.com)
+## Tech Stack
 
-## 💻 Tech Stack
-
-### Languages & Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+### Frontend
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111827?style=flat-square&logo=react&logoColor=white)](https://ui.shadcn.com/)
+[![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=zustand&logoColor=white)](https://zustand-demo.pmnd.rs/)
+[![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://authjs.dev/)
+[![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white)](https://pusher.com/)
 
 ### Backend & Database
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-262627?style=for-the-badge&logo=typeorm&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![TypeORM](https://img.shields.io/badge/TypeORM-262627?style=flat-square&logo=typeorm&logoColor=white)](https://typeorm.io/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-### Security, State & Tools
-![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-2E8555?style=for-the-badge&logo=zustand&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### Tools
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
 
-## 🧩 Key Skills
-- JavaScript (ES6+), React.js, Next.js
-- Zustand, Tailwind CSS, shadcn/ui
-- NextAuth, JWT, RBAC, OTP
-- REST API integration
-- Responsive and accessible UI development
-- Real-time features with Pusher
-- Figma-to-code implementation
+## Featured Projects
 
-## 💼 Work Experience
-### Frontend Developer - Lamp Techs
-Aug 2025 - Present | Dhaka, Bangladesh
-- Developed responsive, production-ready SaaS applications using Next.js and React.js.
-- Implemented secure user authentication and session flows using NextAuth.
-- Translated Figma designs into pixel-accurate, responsive UI implementations.
+| Project | Description | Stack | Links |
+| --- | --- | --- | --- |
+| [VLOO] | Flexible workspace booking marketplace for short- and long-term stays | Next.js, Tailwind, Zustand, Pusher | [Live](#) · [Repo](#) |
+| [Yaabi] | Email and SMS marketing SaaS for campaign creation and automation | Next.js, MUI, Zustand, easy-email | [Live](#) · [Repo](#) |
+| [DevTrack] | Project tracking dashboard for teams and delivery workflows | Next.js, TypeScript, PostgreSQL | [Live](#) · [Repo](#) |
+| [Portfolio] | Personal portfolio and product showcase | Next.js, Tailwind | [Live](#) · [Repo](#) |
 
-## 🏅 Certifications
-- Complete Web Development Course — With Jhankar Mahbub
+## Currently Learning
 
-## 🌍 Languages
-- Bangla (Native)
-- English (Fluent)
+NestJS, PostgreSQL, TypeORM, and backend architecture while continuing to ship production-ready frontend experiences.
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakibkahadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibkahadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakibkahadi&theme=dark&hide_border=false)
-
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=sakibkahadi&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Private contributions are hidden by default; enable them by setting count_private=true in the stats URL if your repo access is configured. -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakibkahadi&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibkahadi&layout=compact&theme=default&hide_border=true)
 
