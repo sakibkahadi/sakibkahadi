@@ -1,7 +1,7 @@
 # Sakib Kahadi Khan
 Frontend Developer, growing into backend.
 
-Dhaka, Bangladesh | [LinkedIn](https://linkedin.com/in/sakibkahadi) | [Email](mailto:sakibkahadi72844@gmail.com) | [Portfolio](#) | [Resume](Sakib_Kahadi_Khan_Resume.pdf)
+Dhaka, Bangladesh | [LinkedIn](https://linkedin.com/in/sakibkahadi) | [Email](mailto:sakibkahadi72844@gmail.com) | [Portfolio](https://sakib-kahadi-portfolio.vercel.app) | [Resume](Sakib_Kahadi_Khan_Resume.pdf)
 
 I build SaaS apps and landing pages with Next.js, React, Tailwind CSS, shadcn/ui, Zustand, Pusher, and NextAuth. I deliver production frontends for real-world products and am expanding into backend systems with NestJS, TypeScript, PostgreSQL, and TypeORM.
 
@@ -32,20 +32,23 @@ I build SaaS apps and landing pages with Next.js, React, Tailwind CSS, shadcn/ui
 
 ## Featured Projects
 
-| Project | Description | Stack | Links |
-| --- | --- | --- | --- |
-| [VLOO] | Flexible workspace booking marketplace for short- and long-term stays | Next.js, Tailwind, Zustand, Pusher | [Live](#) · [Repo](#) |
-| [Yaabi] | Email and SMS marketing SaaS for campaign creation and automation | Next.js, MUI, Zustand, easy-email | [Live](#) · [Repo](#) |
-| [DevTrack] | Project tracking dashboard for teams and delivery workflows | Next.js, TypeScript, PostgreSQL | [Live](#) · [Repo](#) |
-| [Portfolio] | Personal portfolio and product showcase | Next.js, Tailwind | [Live](#) · [Repo](#) |
+| Project | Description | Stack | Live |
+| :-- | :-- | :-- | :-- |
+| **[VLOO](https://vloo.co)** | Flexible workspace booking marketplace for short- and long-term stays | Next.js, Tailwind, Zustand, Pusher | [Live](https://vloo.co) |
+| **[Yaabi](https://yaabi.no)** | Email and SMS marketing SaaS for campaign creation and automation | Next.js, MUI, Zustand, easy-email | [Live](https://yaabi.no) |
+| **[Gtech Infrastructure](https://gtechinfrabd.com/)** | Corporate website for a renewable energy company with solar solutions and infrastructure services | Next.js, TypeScript, Tailwind | [Live](https://gtechinfrabd.com/) |
+| **[Portfolio](https://sakib-kahadi-portfolio.vercel.app)** | Personal portfolio and product showcase for frontend projects | Next.js, TypeScript, Tailwind | [Live](https://sakib-kahadi-portfolio.vercel.app) |
 
 ## Currently Learning
 
-NestJS, PostgreSQL, TypeORM, and backend architecture while continuing to ship production-ready frontend experiences.
+- NestJS
+- PostgreSQL
+- TypeORM
 
 ## GitHub Stats
 
-<!-- Private contributions are hidden by default; enable them by setting count_private=true in the stats URL if your repo access is configured. -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakibkahadi&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibkahadi&layout=compact&theme=default&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibkahadi&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibkahadi&layout=compact&hide_border=true" />
+</picture>
 
